@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:id="@+id/ll_root">
+
+    <ImageView
+        android:id="@+id/iv_figure"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/new_img_loading_2" />
+
+    <TextView
+        android:id="@+id/tv_cover_price"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="#f36"
+        android:textSize="17sp"
+        android:text="￥100.00" />
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp">
+
+
+        <TextView
+            android:id="@+id/tv_origin_price"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textColor="#f99"
+            android:text="￥150.00" />
+
+        <View
+            android:layout_centerInParent="true"
+            android:layout_width="70dp"
+            android:layout_height="1dp"
+            android:background="#F99"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

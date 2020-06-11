@@ -1,0 +1,272 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": {
+        "act_info": [
+            {
+                "icon_url": "/operation/img/1478169868/1478761370286.png",
+                "name": "尚硅谷福利专区之111.1专区",
+                "url": "/oper/1478169868app.html"
+            },
+            {
+                "icon_url": "/operation/img/1478763176/1478762941492.png",
+                "name": "尚硅谷福利专区 黄金狗粮限量11.1元抢",
+                "url": "/oper/1478763176app.html"
+            }
+        ],
+        "banner_info": [
+            {
+                "image": "/banner1.png",
+                "option": 3,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            },
+            {
+                "image": "/banner2.png",
+                "option": 2,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            },
+            {
+                "image": "/banner3.png",
+                "option": 1,
+                "type": 0,
+                "value": {
+                    "url": "/act20161111?cyc_app=1"
+                }
+            }
+        ],
+        "channel_info": [
+            {
+                "channel_name": "玩具",
+                "image": "/app/img/menu-cyc.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "8"
+                }
+            },
+            {
+                "channel_name": "游戏",
+                "image": "/app/img/menu-game.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "4"
+                }
+            },
+            {
+                "channel_name": "茶具",
+                "image": "/app/img/menu-carttoon.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "3"
+                }
+            },
+            {
+                "channel_name": "装扮",
+                "image": "/app/img/menu-cosplay.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "5"
+                }
+            },
+            {
+                "channel_name": "饰品",
+                "image": "/app/img/menu-oldage.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "6"
+                }
+            },
+            {
+                "channel_name": "蜜桃",
+                "image": "/app/img/menu-collect.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "9"
+                }
+            },
+            {
+                "channel_name": "文具",
+                "image": "/app/img/menu-stationery.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "11"
+                }
+            },
+            {
+                "channel_name": "零食",
+                "image": "/app/img/menu-snack.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "10"
+                }
+            },
+            {
+                "channel_name": "首饰",
+                "image": "/app/img/menu-jewelry.png",
+                "option": 2,
+                "type": 1,
+                "value": {
+                    "channel_id": "12"
+                }
+            },
+            {
+                "channel_name": "更多",
+                "image": "/app/img/menu-more.png",
+                "option": 6,
+                "type": 1,
+                 "value": {
+                    "channel_id": "13"
+                }
+            }
+        ],
+        "hot_info": [
+            {
+                "cover_price": "29.80",
+                "figure": "/hot1.jpg",
+                "name": "日本进口meito名糖 白桃水蜜桃味水果糖硬糖 75g*3袋进口零食喜糖",
+                "product_id": "9356"
+            },
+            {
+                "cover_price": "59.00",
+                "figure": "/hot2.jpg",
+                "name": "吴昕同款小飞象STARC星光链益生菌珍珠按压式牙膏 蜜桃味清新口气",
+                "product_id": "10391"
+            },
+            {
+                "cover_price": "38.00",
+                "figure": "/hot3.jpg",
+                "name": "三得利白桃汁日本进口SUNTORY网红饮料ginger水蜜桃味饮料白桃水",
+                "product_id": "3831"
+            },
+            {
+                "cover_price": "17.00",
+                "figure": "/hot4.jpg",
+                "name": "日本进口 杉本屋水蜜桃味软糖42g/袋 日式糖果零食",
+                "product_id": "2691"
+            },
+            {
+                "cover_price": "11.80",
+                "figure": "/hot5.jpg",
+                "name": "日系の白桃水果汁硬糖518g水蜜桃味创意结婚喜糖批发散装网红糖果",
+                "product_id": "9414"
+            },
+            {
+                "cover_price": "4.80",
+                "figure": "/hot6.jpg",
+                "name": "贝欧宝活性益生菌软糖糖果水蜜桃桃子味45g好吃的儿童营养软糖",
+                "product_id": "6869"
+            },
+            {
+                "cover_price": "48.00",
+                "figure": "/hot7.jpg",
+                "name": "日本进口饮料 白桃果汁蜜桃网红果味饮料樱花可乐微碳酸汽水4瓶装",
+                "product_id": "10136"
+            },
+            {
+                "cover_price": "85.00",
+                "figure": "/hot8.jpg",
+                "name": "现货日本Pelican好用黄桃桃子味身体乳炒好闻滋润不油腻500ml蜜桃",
+                "product_id": "7752"
+            }
+        ],
+        "recommend_info": [
+            {
+                "cover_price": "649.00",
+                "figure": "/new1.jpg",
+                "name": "Akko 3108v2富士山樱花R2机械键盘游戏有线电竞德国Cherry樱桃轴青轴茶轴红轴女生可爱粉色网红打字96键108键",
+                "product_id": "10659"
+            },
+            {
+                "cover_price": "45.00",
+                "figure": "/new2.jpg",
+                "name": "包邮卡通可爱美乐蒂毛绒露趾春秋家居鞋地板居家鱼嘴防滑拖鞋",
+                "product_id": "10658"
+            },
+            {
+                "cover_price": "99.00",
+                "figure": "/new3.jpg",
+                "name": "浮游猫 l 原创设计 桃子包 斜挎包 一颗水蜜桃 日系少女心 毛绒包",
+                "product_id": "10657"
+            },
+            {
+                "cover_price": "18.00",
+                "figure": "/new4.jpg",
+                "name": "正版粉色小桃子书包挂件ins少女心钥匙扣挂件可爱毛绒小清新软妹",
+                "product_id": "10656"
+            },
+            {
+                "cover_price": "3499.00",
+                "figure": "/new5.jpg",
+                "name": "七彩虹/onebot L22A1樱花粉/粉色可爱一体机电脑九代i3/i5办公家用网课学习娱乐一体式电脑AIO全套",
+                "product_id": "10655"
+            },
+            {
+                "cover_price": "48.00",
+                "figure": "/new6.jpg",
+                "name": "0000cc原创夏日水蜜桃流沙手机壳苹果iphone11/xs日系少女",
+                "product_id": "10654"
+            }
+        ],
+        "seckill_info": {
+            "end_time": "1479052800",
+            "list": [
+                {
+                    "cover_price": "120.00",
+                    "figure": "/sek1.jpg",
+                    "name": "出口日本精致浮雕粉色樱花飞舞花瓣陶瓷咖啡壶茶壶带碟咖啡杯茶杯",
+                    "origin_price": "169.00",
+                    "product_id": "7100"
+                },
+                {
+                    "cover_price": "78.00",
+                    "figure": "/sek2.jpg",
+                    "name": "KAKAO FRIENDS 卡通无线苹果蓝牙耳机保护套啵啵桃AirPods保护壳",
+                    "origin_price": "99.00",
+                    "product_id": "7101"
+                },
+                {
+                    "cover_price": "108.00",
+                    "figure": "/sek3.jpg",
+                    "name": "KAKAR设计师原创 毛桃桃大心心doki 抱枕心形玩偶礼物",
+                    "origin_price": "168.00",
+                    "product_id": "7102"
+                },
+                {
+                    "cover_price": "179.00",
+                    "figure": "/sek4.jpg",
+                    "name": "Wilson威尔胜小马宝莉少女粉篮球7号球 室内外耐磨PU篮球粉色篮球",
+                    "origin_price": "199.00",
+                    "product_id": "9593"
+                },
+                {
+                    "cover_price": "17.18",
+                    "figure": "/sek5.jpg",
+                    "name": "Sotck”Roselios|Sakurios静音线性轴开关 樱花轴玫红轴",
+                    "origin_price": "22.00",
+                    "product_id": "10536"
+                },
+                {
+                    "cover_price": "14.80",
+                    "figure": "/sek6.jpg",
+					"name":"卡通闪粉水蜜桃兔子iphonex苹果x手机壳iPhone11pro创意xsmax/xr/iPhonexr/se/promax硅胶8plus女7p软iPhone8【古风原创】 自动直柄伞 晴雨伞 【青竹词】包邮  新增折叠伞",
+                    "origin_price": "42.00",
+                    "product_id": "555"
+                }
+            ],
+            "start_time": "1478772000"
+        }
+    }
+}
